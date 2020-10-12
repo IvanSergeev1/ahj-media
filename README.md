@@ -1,5 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-media)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/d4cdgl6ppvmw4b54?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-media)
 
 ### Общая легенда
 
